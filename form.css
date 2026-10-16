@@ -119,3 +119,13 @@ footer {
     margin-top: 170px;
   }
 }
+
+.login-btn:hover {
+  background-color: #166fe5;
+  cursor: pointer;
+}
+
+.create-btn:hover {
+  background-color: #36a420;
+  cursor: pointer;
+}
